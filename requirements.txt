@@ -3,5 +3,3 @@ folium
 pandas
 requests 
 streamlit_folium
-base64
-ImageOverlay
