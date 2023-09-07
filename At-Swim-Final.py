@@ -1,3 +1,4 @@
+import subprocess
 import pandas as pd
 import folium
 from folium.raster_layers import ImageOverlay
@@ -6,6 +7,7 @@ import streamlit as st
 import base64
 import requests
 
+subprocess.run(["bash", "run_requirements.sh"])
 
 # Define a function to load Lottie animation JSON data from a URL
 def load_lottieurl(url):
