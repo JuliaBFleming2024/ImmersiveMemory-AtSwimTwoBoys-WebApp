@@ -150,11 +150,4 @@ with st.expander("Memory Studies and Motivation"):
     st.markdown("""
     Experience the emotions and themes of "At Swim, Two Boys" through carefully selected music. Choose a song from the options below to immerse yourself further in the narrative.
     """)
-
-
-// Glasthule dublin Bay 
-// Glasthule Road - were the shops began  p9
-// County Clare - represent Dolyers roots page86
-// Wandsworth Jail 
-// Shelbourne hotel p524
-
+ 
